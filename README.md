@@ -1,4 +1,4 @@
-# week11.	As a user, I want to provide reviews for my hospital experience, so that I can notify the general public on whether the hospital is good or not.
+1. As a user, I want to provide reviews for my hospital experience, so that I can notify the general public on whether the hospital is good or not.
 2.	As a user, I want to review my doctors, so I can recommend/not recommend my doctor to others.
 3.	As a user, I want to fill out quantitative feedback surveys, so I can notify the hospital of my user experience as a patient. 
 4.	As a user, I want to browse treatment information for my nausea, so that I do not have to wait long periods of time between doctor appointments to make myself feel better.
